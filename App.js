@@ -1,7 +1,7 @@
 import React,{useState} from "react";
-import Inputuser from "./Component/Inputuser";
-import Buttonc from "./Component/Buttonc.js";
-import Show from "./Component/Show";
+import Inputuser from "./Inputuser";
+import Buttonc from "./Buttonc.js";
+import Show from "./Show";
 
 
 function App(){
